@@ -33,7 +33,7 @@ jobs:
         run: pnpm install
 
       - name: Build
-        run: pnpm slidev build --base /roma-js-opening-slides/
+        run: pnpm slidev build --base /roma-js-opening-slides-nov-2023/
 
       - uses: actions/configure-pages@v3
 
