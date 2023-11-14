@@ -58,10 +58,30 @@ layout: intro
 # Un grazie per la location! 🙏
 
 ---
-layout: intro
+layout: statement
 ---
 
-# L'evento di oggi 🚀
+# Annuncio del giorno
+
+<v-click>
+
+<img width="120" height="120" src="discord.png" style="display: inline" />
+
+</v-click>
+
+
+---
+layout: statement
+---
+
+<v-click>
+
+# ⚡ Lightning talks ⚡
+
+</v-click>
+
+## L'evento di oggi 🚀
+
 
 ---
 layout: intro

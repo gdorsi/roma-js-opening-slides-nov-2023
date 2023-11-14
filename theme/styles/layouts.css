@@ -4,6 +4,11 @@
   --slidev-theme-primary: #222;
 }
 
+.slidev-page-5[class] {
+  background-color: var(--brand-primary);
+  color: white;
+}
+
 .slidev-layout {
   background-color: #ffb200;
   color: #222;
@@ -71,7 +76,7 @@
   @apply text-center grid h-full;
 
   h1 {
-    @apply text-6xl font-700;
+    @apply text-6xl font-400;
   }
 }
 
