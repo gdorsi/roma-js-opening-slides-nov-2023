@@ -65,7 +65,7 @@ layout: statement
 
 <v-click>
 
-<img width="120" height="120" src="discord.png" style="display: inline" />
+<img width="120" height="120" src="/discord.png" style="display: inline" />
 
 </v-click>
 
